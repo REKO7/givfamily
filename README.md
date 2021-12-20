@@ -57,17 +57,10 @@ pm2 start --name "Giveaway" index.js --watch
 - Direct message when the server mentioned for joining is not joined
 - Direct message when the server mentioned for joining is joined 
 - Direct Message When User Reacts on an ended giveaway
-# Links
-- 🔗 [Youtube Channel](https://www.youtube.com/c/ZeroSync)
-- [Support Server Link](https://discord.gg/ARu4hr6hJw)
+- [Support Server Link](https://discord.gg/fDuuGC3qFp)
 # Copyright 
 Copyright 2021 © All RIghts are Reserved 
 # License
-**Creative Commons Zero v1.0 Universal**
-[View the license here](https://github.com/ZeroDiscord/Giveaway/blob/main/LICENSE)
-
-
-# [Host On Repl.it](https://repl.it/github/ZeroDiscord/Giveaway)
-# [Remix On Glitch](https://glitch.com/edit/#!/import/github/ZeroDiscord/Giveaway)
+**Creative Commons  v1.0 Universal**
 
 ## ⚠ This bot needs a [Node.js v16+](https://nodejs.org/en/blog/release/v16.0.0/)  runtime to function since discord.js version 13 requires said node version to function.
